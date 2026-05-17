@@ -9,11 +9,15 @@ JavaScript
 LocalStorage
 # Proje Özellikleri:
 Dinamik kredi risk puanı hesaplama
+
 Finansal veri analizi
+
 Kredi skoru göstergesi (speedometer)
+
 DOM manipülasyonu
-Responsive tasarım
+
 Form doğrulama işlemleri
+
 Kullanıcı etkileşimli arayüz
 # Hesaplanan Veriler:
 Kredi skoru
