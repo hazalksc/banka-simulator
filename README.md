@@ -1,8 +1,11 @@
 # Banka Simülatörü
 # Kullanılan Teknolojiler:
 HTML5
+
 CSS3
+
 JavaScript
+
 LocalStorage
 # Proje Özellikleri:
 Dinamik kredi risk puanı hesaplama
