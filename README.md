@@ -17,8 +17,11 @@ Form doğrulama işlemleri
 Kullanıcı etkileşimli arayüz
 # Hesaplanan Veriler:
 Kredi skoru
+
 Risk durumu
+
 Aylık taksit tutarı
+
 Gelir/gider analizi
 # Projede Öğrendiklerim
 
